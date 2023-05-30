@@ -15,3 +15,14 @@ use yarn start in both of admin and api path to open the web page
 plot graph use
 - nivo
 - rechart
+
+### Web page
+Dashboard 
+- Number of users -> show in number
+- Number of booking -> show in number
+- Most popular payment method -> show in progress bar
+- Total income range -> show in line chart(use rechart)
+- Booking time distribution -> show in bar chart(use rechart)
+- Most popular room type -> show in pie chart(use nivo)
+Logout
+Change color web page
