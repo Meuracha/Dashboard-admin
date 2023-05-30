@@ -14,7 +14,9 @@ use yarn start in both of admin and api path to open the web page
 
 plot graph use
 - nivo
+https://nivo.rocks
 - rechart
+https://recharts.org/en-US/
 
 ### Web page
 Dashboard 
@@ -28,3 +30,6 @@ Dashboard
 Logout
 
 Change color web page
+
+### Slide
+https://www.canva.com/design/DAFkL3PTNnU/kYNFCWIG33HmMDRbzUIdjA/edit?utm_content=DAFkL3PTNnU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
