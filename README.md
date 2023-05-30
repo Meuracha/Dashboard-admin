@@ -8,10 +8,10 @@ use link in your MongoDB replace it in .env
 ### Start server
 use yarn start in both of admin and api path to open the web page
 
-import libraries
+### import libraries
 - yarn add mongoose bcryptjs jsonwebtoken
 - yarn add axois
 
-plot graph
+plot graph use
 - nivo
 - rechart
