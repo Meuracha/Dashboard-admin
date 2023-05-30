@@ -24,5 +24,7 @@ Dashboard
 - Total income range -> show in line chart(use rechart)
 - Booking time distribution -> show in bar chart(use rechart)
 - Most popular room type -> show in pie chart(use nivo)
+
 Logout
+
 Change color web page
